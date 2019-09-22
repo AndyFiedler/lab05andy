@@ -5,8 +5,8 @@ LAB -
 Project Name: Lab 05
 Author: Andy Fiedler
 Links and Resources
-submission PR: 
-travis
+submission PR: https://github.com/AndyFiedler/lab05andy/pull/1
+travis: https://travis-ci.com/AndyFiedler/lab05andy
 back-end (when applicable)
 front-end (when applicable)
 Documentation
