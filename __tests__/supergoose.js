@@ -37,4 +37,4 @@ if (!module.parent) {
     it('can connect', async () => {
       expect(mongoose.connection.db).toBeDefined();
     });
-  });
+  })};
